@@ -2,9 +2,9 @@
 
 NOTE: I don't own this device anymore, so there won't be any updates.
 
-Drivers exported from a Xiaomi Book S 12'4
+Drivers exported from a Xiaomi Book S 12'4 (China version) with `pnputil /export-driver * "."`
 
-Installed OS was Windows 11 22000.0
+Installed OS was Windows 11 23H2
 
 ## BIOS from Xiaomi China
 
@@ -23,6 +23,8 @@ Tutorial:
 3. Boot from it on your device
 
 Download (Xiaomi China): [Download](https://cdn.cnbj1.fds.api.mi-img.com/mibook-drivers/Image/A51_Recovery_Win11_ARM_22H2_SKU1_CN_RTM_V3.1.zip)
+
+The OS contained in the image is Windows 11 Home China, there may no English display language support.
 
 ## Camera issue fixer from Xiaomi China
 
