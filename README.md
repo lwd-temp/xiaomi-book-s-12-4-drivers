@@ -1,29 +1,36 @@
 # Xiaomi Book S 12'4 drivers
 
-NOTE: I don't own this device anymore, so there won't be any updates. Recovery image and firmware downloads will still stay though.
-
+NOTE: I don't own this device anymore, so there won't be any updates.
 
 Drivers exported from a Xiaomi Book S 12'4
 
 Installed OS was Windows 11 22000.0
 
-## Firmware
+## BIOS from Xiaomi China
 
-If someone wants to research the firmware:
+If someone wants to research the BIOS installer:
 
-05/20/2022 1.09.0.0
+06/07/2023 XM28C2B0P16
 
-Download (Google Drive): [Download](https://drive.google.com/drive/folders/1U7KRF0az6jzwb-yYZUR4WEj-c_Mc8iob)
+Download (Xiaomi China): [Download](https://cdn.cnbj1.fds.api.mi-img.com/mibook-drivers/BIOS/A51/20230607/XM28C2B0P16.zip)
 
-
-## Recovery image dumped from a stock Xiaomi Book S 12'4
-
-Includes, latest firmware and extracted drivers
+## Recovery image from Xiaomi China
 
 Tutorial:
 
 1. Extract it with 7zip
-2. Place the files on a usb stick
+2. Write the image to a usb stick with [Rufus](https://rufus.ie/)
 3. Boot from it on your device
 
-Download (Google Drive): [Download](https://drive.google.com/file/d/1avynR1Rgea34JPkUz5JWfgQl9ScaMLHR/view?usp=sharing)
+Download (Xiaomi China): [Download](https://cdn.cnbj1.fds.api.mi-img.com/mibook-drivers/Image/A51_Recovery_Win11_ARM_22H2_SKU1_CN_RTM_V3.1.zip)
+
+## Camera issue fixer from Xiaomi China
+
+Tutorial:
+
+1. Extract it with 7zip
+2. Execute the executable
+
+Download (Xiaomi China): [Download](https://cdn.cnbj1.fds.api.mi-img.com/mibook-drivers/Driver/A51/20230528/FixCamera.zip)
+
+The support page for this model on Xiaomi China is [link](https://www.mi.com/service/notebook/drivers/A51).
